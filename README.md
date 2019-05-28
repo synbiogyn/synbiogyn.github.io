@@ -9,8 +9,8 @@ com o objetivo de disseminar o conhecimento sobre biologia sintética tanto em G
 
 ### Curto Prazo
 * Temos o objetivo de padronizar o conhecimento entre os integrantes atuais do grupo, no quesito de todos saberem o básico de
-biologia sintética, e cada um aprofundar na sua área específica.
+biologia sintética para melhor comunicação entre os integrantes do grpo, e também o aprofundamento em sua área específica para que cada um possa contribuir mais e melhor.
 
 ### Longo Prazo
-* A longo prazo temos o objetivo de talvez participarmos na competição internacional de engenharia de sistemas biológicos (iGEM), uma
+* Temos como objetivo a participação na competição internacional de engenharia de sistemas biológicos (iGEM), uma
 competição de biologia sintética sedeada nos EUA(USA).
